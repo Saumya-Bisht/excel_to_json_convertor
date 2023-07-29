@@ -1,0 +1,27 @@
+.body{
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+textarea{
+    border: 1px dotted dodgerblue;
+    margin:15px;
+}
+#h2{
+    text-align: center;
+    color: rgb(6, 6, 124);
+}
+#inp{
+   font-size: larger;
+   /* margin-left: 5%; */
+    
+}
+#div{
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
