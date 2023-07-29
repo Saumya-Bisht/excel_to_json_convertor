@@ -34,10 +34,3 @@ You can try out the live demo of the Excel to JSON Converter [here](https://saum
 
 
 
-
-#Technologies Used
-HTML
-CSS
-JavaScript
-
-
